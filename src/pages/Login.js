@@ -1,6 +1,22 @@
+import React from 'react';
 import styles from '../styles/login.module.css';
+import Link from 'next/link';
 export default function Login() {
   return (
+     <div>
+    <header>
+        <div className="right">
+            <Link href="/">
+          <button className="btn">Back</button>
+          </Link>
+        </div>
+        <div className="right">
+  <Link href="/SignUp">
+    <button className="btn">SignUp</button>
+  </Link>
+</div>
+
+      </header>
     <div className={styles.page}>
     <div className={styles.wrapper}>
       <div className={styles['form-box']}>
@@ -36,6 +52,7 @@ export default function Login() {
           </button>
         </form>
       </div>
+    </div>
     </div>
     </div>
   );
