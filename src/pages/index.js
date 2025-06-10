@@ -1,6 +1,6 @@
 import Head from "next/head"; // make sure your styles are here
 import Link from 'next/link';
-
+import QuoteFetcher from '../components/QuoteFetcher';
 export default function Home() {
   return (
     <>
@@ -31,6 +31,7 @@ export default function Home() {
       <div className="dashboard">
         <aside className="sidebar">
           <h2>EduStreak</h2>
+          <QuoteFetcher />
           <nav>
             <ul>
               <li><a href="#">📘 Past Words</a></li>
