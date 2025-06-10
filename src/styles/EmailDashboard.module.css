@@ -1,0 +1,85 @@
+/* Base container */
+.container {
+  padding: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f6f8;
+  min-height: 100vh;
+  color: #2c3e50;
+}
+
+/* Headings */
+.header {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.subheader {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+  color: #34495e;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* Section box styling */
+.section {
+  margin-bottom: 2rem;
+  padding: 1.5rem 2rem;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s ease;
+}
+
+.section:hover {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+}
+
+/* Buttons */
+.button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 0.5rem 1.25rem;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #2980b9;
+}
+
+/* Success message */
+.success-message {
+  margin-top: 0.75rem;
+  padding: 0.75rem;
+  border-radius: 6px;
+  background-color: #e9fbe6;
+  color: #2e7d32;
+  border-left: 5px solid #4caf50;
+  font-size: 0.95rem;
+}
+
+/* Email log list */
+.email-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.email-list li {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+.email-list li strong {
+  color: #000;
+}

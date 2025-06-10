@@ -34,8 +34,8 @@ export default function Home() {
           <QuoteFetcher />
           <nav>
             <ul>
-              <li><a href="#">📘 Past Words</a></li>
-              <li><a href="#">📝 Quiz</a></li>
+              <li><a href="/EmailDashboard">📘 Email Settings</a></li>
+              <li><a href="/Quiz">📝 Quiz</a></li>
               <li><a href="#">🚪 Logout</a></li>
             </ul>
           </nav>

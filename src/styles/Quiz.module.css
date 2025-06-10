@@ -1,0 +1,81 @@
+.container {
+  padding: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #171817, #a9d1a9);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  font-size: 2.5rem;
+  color: white;
+  margin-bottom: 2rem;
+}
+
+.card {
+  background: #ffffff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
+  max-width: 600px;
+  width: 100%;
+}
+
+.question {
+  font-size: 1.5rem;
+  color: #34495e;
+  margin-bottom: 1.5rem;
+}
+
+.options {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 0 1.5rem 0;
+}
+
+.optionItem {
+  margin-bottom: 0.75rem;
+  font-size: 1rem;
+}
+
+.optionItem label {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.radio {
+  accent-color: #2980b9;
+  width: 16px;
+  height: 16px;
+}
+
+.button {
+  background-color: #2980b9;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.button:hover {
+  background-color: #1f6391;
+}
+
+.buttonDisabled {
+  background-color: #bdc3c7;
+  color: #ecf0f1;
+  cursor: not-allowed;
+}
+
+.result {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #2c3e50;
+}
