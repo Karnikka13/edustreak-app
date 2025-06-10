@@ -1,4 +1,5 @@
 import Head from "next/head"; // make sure your styles are here
+import Link from 'next/link';
 
 export default function Home() {
   return (
@@ -17,9 +18,14 @@ export default function Home() {
           <span>EduStreak</span>
         </div>
         <div className="right">
-          <button className="btn">Login</button>
-          <button className="btn">Sign Up</button>
-        </div>
+  <Link href="/Login">
+    <button className="btn">Login</button>
+  </Link>
+  <Link href="/signup">
+    <button className="btn">Sign Up</button>
+  </Link>
+</div>
+
       </header>
 
       <div className="dashboard">
