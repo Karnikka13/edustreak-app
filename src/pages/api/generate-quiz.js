@@ -1,5 +1,3 @@
-// pages/api/generate-quiz.js
-
 export default function handler(req, res) {
   const quiz = [
     {
