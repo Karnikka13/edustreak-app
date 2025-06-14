@@ -1,246 +1,131 @@
 {
   "Web Development": [
     {
-      "question": "What is Web Development concept 1?",
-      "options": [
-        "Web Development Option A1",
-        "Web Development Option B1",
-        "Web Development Option C1",
-        "Web Development Option D1"
-      ],
-      "answer": "Web Development Option A1"
+      "question": "Which HTML tag is used to define a hyperlink?",
+      "options": ["<link>", "<a>", "<href>", "<url>"],
+      "answer": "<a>"
     },
     {
-      "question": "What is Web Development concept 3?",
-      "options": [
-        "Web Development Option A3",
-        "Web Development Option B3",
-        "Web Development Option C3",
-        "Web Development Option D3"
-      ],
-      "answer": "Web Development Option A3"
+      "question": "What does CSS stand for?",
+      "options": ["Color Style Sheets", "Cascading Style Sheets", "Creative Style Sheets", "Computer Style Sheets"],
+      "answer": "Cascading Style Sheets"
     },
     {
-      "question": "What is Web Development concept 4?",
-      "options": [
-        "Web Development Option A4",
-        "Web Development Option B4",
-        "Web Development Option C4",
-        "Web Development Option D4"
-      ],
-      "answer": "Web Development Option A4"
+      "question": "Which HTTP status code means 'Not Found'?",
+      "options": ["200", "301", "404", "500"],
+      "answer": "404"
     },
     {
-      "question": "What is Web Development concept 5?",
-      "options": [
-        "Web Development Option A5",
-        "Web Development Option B5",
-        "Web Development Option C5",
-        "Web Development Option D5"
-      ],
-      "answer": "Web Development Option A5"
+      "question": "Which JavaScript function is used to parse a JSON string?",
+      "options": ["JSON.stringify()", "JSON.parse()", "parse.JSON()", "stringify.JSON()"],
+      "answer": "JSON.parse()"
     }
   ],
   "Data Structures & Algorithms": [
     {
-      "question": "What is Data Structures & Algorithms concept 1?",
-      "options": [
-        "Data Structures & Algorithms Option A1",
-        "Data Structures & Algorithms Option B1",
-        "Data Structures & Algorithms Option C1",
-        "Data Structures & Algorithms Option D1"
-      ],
-      "answer": "Data Structures & Algorithms Option A1"
+      "question": "What is the time complexity of binary search?",
+      "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+      "answer": "O(log n)"
     },
     {
-      "question": "What is Data Structures & Algorithms concept 4?",
-      "options": [
-        "Data Structures & Algorithms Option A4",
-        "Data Structures & Algorithms Option B4",
-        "Data Structures & Algorithms Option C4",
-        "Data Structures & Algorithms Option D4"
-      ],
-      "answer": "Data Structures & Algorithms Option A4"
+      "question": "Which data structure uses FIFO (First In First Out)?",
+      "options": ["Stack", "Queue", "Array", "Tree"],
+      "answer": "Queue"
     },
     {
-      "question": "What is Data Structures & Algorithms concept 5?",
-      "options": [
-        "Data Structures & Algorithms Option A5",
-        "Data Structures & Algorithms Option B5",
-        "Data Structures & Algorithms Option C5",
-        "Data Structures & Algorithms Option D5"
-      ],
-      "answer": "Data Structures & Algorithms Option A5"
+      "question": "Which sorting algorithm is the fastest in average case?",
+      "options": ["Bubble Sort", "Insertion Sort", "Quick Sort", "Selection Sort"],
+      "answer": "Quick Sort"
     }
   ],
   "Machine Learning": [
     {
-      "question": "What is Machine Learning concept 1?",
-      "options": [
-        "Machine Learning Option A1",
-        "Machine Learning Option B1",
-        "Machine Learning Option C1",
-        "Machine Learning Option D1"
-      ],
-      "answer": "Machine Learning Option A1"
+      "question": "What is overfitting in machine learning?",
+      "options": ["Model performs well on test data", "Model generalizes well", "Model memorizes training data", "Model has high bias"],
+      "answer": "Model memorizes training data"
     },
     {
-      "question": "What is Machine Learning concept 2?",
-      "options": [
-        "Machine Learning Option A2",
-        "Machine Learning Option B2",
-        "Machine Learning Option C2",
-        "Machine Learning Option D2"
-      ],
-      "answer": "Machine Learning Option A2"
+      "question": "Which algorithm is used for classification?",
+      "options": ["Linear Regression", "K-Means", "K-Nearest Neighbors", "PCA"],
+      "answer": "K-Nearest Neighbors"
     },
     {
-      "question": "What is Machine Learning concept 3?",
-      "options": [
-        "Machine Learning Option A3",
-        "Machine Learning Option B3",
-        "Machine Learning Option C3",
-        "Machine Learning Option D3"
-      ],
-      "answer": "Machine Learning Option A3"
+      "question": "Which of the following is a supervised learning algorithm?",
+      "options": ["K-Means", "Linear Regression", "Apriori", "DBSCAN"],
+      "answer": "Linear Regression"
     }
   ],
   "Artificial Intelligence": [
     {
-      "question": "What is Artificial Intelligence concept 1?",
-      "options": [
-        "Artificial Intelligence Option A1",
-        "Artificial Intelligence Option B1",
-        "Artificial Intelligence Option C1",
-        "Artificial Intelligence Option D1"
-      ],
-      "answer": "Artificial Intelligence Option A1"
+      "question": "Which branch of AI deals with mimicking human decision making?",
+      "options": ["Computer Vision", "Expert Systems", "Robotics", "Natural Language Processing"],
+      "answer": "Expert Systems"
     },
     {
-      "question": "What is Artificial Intelligence concept 4?",
-      "options": [
-        "Artificial Intelligence Option A4",
-        "Artificial Intelligence Option B4",
-        "Artificial Intelligence Option C4",
-        "Artificial Intelligence Option D4"
-      ],
-      "answer": "Artificial Intelligence Option A4"
+      "question": "What does NLP stand for in AI?",
+      "options": ["Natural Language Programming", "Neural Logic Processor", "Natural Language Processing", "None"],
+      "answer": "Natural Language Processing"
     },
     {
-      "question": "What is Artificial Intelligence concept 5?",
-      "options": [
-        "Artificial Intelligence Option A5",
-        "Artificial Intelligence Option B5",
-        "Artificial Intelligence Option C5",
-        "Artificial Intelligence Option D5"
-      ],
-      "answer": "Artificial Intelligence Option A5"
+      "question": "Which algorithm is commonly used in pathfinding AI (like in games)?",
+      "options": ["A*", "Dijkstra", "BFS", "All of the above"],
+      "answer": "All of the above"
     }
   ],
   "Cybersecurity": [
     {
-      "question": "What is Cybersecurity concept 1?",
-      "options": [
-        "Cybersecurity Option A1",
-        "Cybersecurity Option B1",
-        "Cybersecurity Option C1",
-        "Cybersecurity Option D1"
-      ],
-      "answer": "Cybersecurity Option A1"
+      "question": "What does 'phishing' refer to?",
+      "options": ["Malware attack", "Social engineering attack", "Firewall rule", "Physical theft"],
+      "answer": "Social engineering attack"
     },
     {
-      "question": "What is Cybersecurity concept 2?",
-      "options": [
-        "Cybersecurity Option A2",
-        "Cybersecurity Option B2",
-        "Cybersecurity Option C2",
-        "Cybersecurity Option D2"
-      ],
-      "answer": "Cybersecurity Option A2"
+      "question": "Which protocol is used to securely transfer web pages?",
+      "options": ["HTTP", "HTTPS", "FTP", "SSH"],
+      "answer": "HTTPS"
     },
     {
-      "question": "What is Cybersecurity concept 5?",
-      "options": [
-        "Cybersecurity Option A5",
-        "Cybersecurity Option B5",
-        "Cybersecurity Option C5",
-        "Cybersecurity Option D5"
-      ],
-      "answer": "Cybersecurity Option A5"
+      "question": "Which tool is used for network packet analysis?",
+      "options": ["Wireshark", "Nmap", "Metasploit", "Kali Linux"],
+      "answer": "Wireshark"
     }
   ],
   "Mobile App Development": [
     {
-      "question": "What is Mobile App Development concept 1?",
-      "options": [
-        "Mobile App Development Option A1",
-        "Mobile App Development Option B1",
-        "Mobile App Development Option C1",
-        "Mobile App Development Option D1"
-      ],
-      "answer": "Mobile App Development Option A1"
+      "question": "Which language is commonly used for Android app development?",
+      "options": ["Java", "Swift", "Python", "C#"],
+      "answer": "Java"
     },
     {
-      "question": "What is Mobile App Development concept 2?",
-      "options": [
-        "Mobile App Development Option A2",
-        "Mobile App Development Option B2",
-        "Mobile App Development Option C2",
-        "Mobile App Development Option D2"
-      ],
-      "answer": "Mobile App Development Option A2"
+      "question": "Which of the following is a cross-platform mobile development framework?",
+      "options": ["Flutter", "Android Studio", "Xcode", "Eclipse"],
+      "answer": "Flutter"
     },
     {
-      "question": "What is Mobile App Development concept 3?",
-      "options": [
-        "Mobile App Development Option A3",
-        "Mobile App Development Option B3",
-        "Mobile App Development Option C3",
-        "Mobile App Development Option D3"
-      ],
-      "answer": "Mobile App Development Option A3"
+      "question": "Which file format is used to package Android apps?",
+      "options": [".exe", ".apk", ".ipa", ".zip"],
+      "answer": ".apk"
     },
     {
-      "question": "What is Mobile App Development concept 5?",
-      "options": [
-        "Mobile App Development Option A5",
-        "Mobile App Development Option B5",
-        "Mobile App Development Option C5",
-        "Mobile App Development Option D5"
-      ],
-      "answer": "Mobile App Development Option A5"
+      "question": "Which company developed Swift language?",
+      "options": ["Google", "Microsoft", "Apple", "Facebook"],
+      "answer": "Apple"
     }
   ],
   "Cloud Computing": [
     {
-      "question": "What is Cloud Computing concept 1?",
-      "options": [
-        "Cloud Computing Option A1",
-        "Cloud Computing Option B1",
-        "Cloud Computing Option C1",
-        "Cloud Computing Option D1"
-      ],
-      "answer": "Cloud Computing Option A1"
+      "question": "Which of the following is a popular cloud service provider?",
+      "options": ["AWS", "Windows", "Oracle DB", "MongoDB"],
+      "answer": "AWS"
     },
     {
-      "question": "What is Cloud Computing concept 2?",
-      "options": [
-        "Cloud Computing Option A2",
-        "Cloud Computing Option B2",
-        "Cloud Computing Option C2",
-        "Cloud Computing Option D2"
-      ],
-      "answer": "Cloud Computing Option A2"
+      "question": "What does SaaS stand for?",
+      "options": ["Software as a Service", "Storage as a Service", "Security as a System", "Software and System"],
+      "answer": "Software as a Service"
     },
     {
-      "question": "What is Cloud Computing concept 5?",
-      "options": [
-        "Cloud Computing Option A5",
-        "Cloud Computing Option B5",
-        "Cloud Computing Option C5",
-        "Cloud Computing Option D5"
-      ],
-      "answer": "Cloud Computing Option A5"
+      "question": "Which type of cloud allows both public and private cloud features?",
+      "options": ["Public Cloud", "Private Cloud", "Hybrid Cloud", "Distributed Cloud"],
+      "answer": "Hybrid Cloud"
     }
   ]
 }
