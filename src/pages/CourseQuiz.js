@@ -18,9 +18,13 @@ export default function CourseQuiz() {
         const data = await response.json();
 
         const combined = [
-          ...data.JavaScript,
-          ...data["Data Structures"],
-          ...data.DBMS,
+          ...data["Web Development"],
+          ...data["Data Structures & Algorithms"],
+          ...data["Machine Learning"],
+          ...data["Artificial Intelligence"],
+          ...data["Cybersecurity"],
+          ...data["Mobile App Development"],
+          ...data["Cloud Computing"],
         ];
 
         const shuffled = combined.sort(() => 0.5 - Math.random()).slice(0, 10);

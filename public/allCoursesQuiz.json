@@ -11,16 +11,6 @@
       "answer": "Web Development Option A1"
     },
     {
-      "question": "What is Web Development concept 2?",
-      "options": [
-        "Web Development Option A2",
-        "Web Development Option B2",
-        "Web Development Option C2",
-        "Web Development Option D2"
-      ],
-      "answer": "Web Development Option A2"
-    },
-    {
       "question": "What is Web Development concept 3?",
       "options": [
         "Web Development Option A3",
@@ -61,26 +51,6 @@
         "Data Structures & Algorithms Option D1"
       ],
       "answer": "Data Structures & Algorithms Option A1"
-    },
-    {
-      "question": "What is Data Structures & Algorithms concept 2?",
-      "options": [
-        "Data Structures & Algorithms Option A2",
-        "Data Structures & Algorithms Option B2",
-        "Data Structures & Algorithms Option C2",
-        "Data Structures & Algorithms Option D2"
-      ],
-      "answer": "Data Structures & Algorithms Option A2"
-    },
-    {
-      "question": "What is Data Structures & Algorithms concept 3?",
-      "options": [
-        "Data Structures & Algorithms Option A3",
-        "Data Structures & Algorithms Option B3",
-        "Data Structures & Algorithms Option C3",
-        "Data Structures & Algorithms Option D3"
-      ],
-      "answer": "Data Structures & Algorithms Option A3"
     },
     {
       "question": "What is Data Structures & Algorithms concept 4?",
@@ -133,26 +103,6 @@
         "Machine Learning Option D3"
       ],
       "answer": "Machine Learning Option A3"
-    },
-    {
-      "question": "What is Machine Learning concept 4?",
-      "options": [
-        "Machine Learning Option A4",
-        "Machine Learning Option B4",
-        "Machine Learning Option C4",
-        "Machine Learning Option D4"
-      ],
-      "answer": "Machine Learning Option A4"
-    },
-    {
-      "question": "What is Machine Learning concept 5?",
-      "options": [
-        "Machine Learning Option A5",
-        "Machine Learning Option B5",
-        "Machine Learning Option C5",
-        "Machine Learning Option D5"
-      ],
-      "answer": "Machine Learning Option A5"
     }
   ],
   "Artificial Intelligence": [
@@ -165,26 +115,6 @@
         "Artificial Intelligence Option D1"
       ],
       "answer": "Artificial Intelligence Option A1"
-    },
-    {
-      "question": "What is Artificial Intelligence concept 2?",
-      "options": [
-        "Artificial Intelligence Option A2",
-        "Artificial Intelligence Option B2",
-        "Artificial Intelligence Option C2",
-        "Artificial Intelligence Option D2"
-      ],
-      "answer": "Artificial Intelligence Option A2"
-    },
-    {
-      "question": "What is Artificial Intelligence concept 3?",
-      "options": [
-        "Artificial Intelligence Option A3",
-        "Artificial Intelligence Option B3",
-        "Artificial Intelligence Option C3",
-        "Artificial Intelligence Option D3"
-      ],
-      "answer": "Artificial Intelligence Option A3"
     },
     {
       "question": "What is Artificial Intelligence concept 4?",
@@ -229,26 +159,6 @@
       "answer": "Cybersecurity Option A2"
     },
     {
-      "question": "What is Cybersecurity concept 3?",
-      "options": [
-        "Cybersecurity Option A3",
-        "Cybersecurity Option B3",
-        "Cybersecurity Option C3",
-        "Cybersecurity Option D3"
-      ],
-      "answer": "Cybersecurity Option A3"
-    },
-    {
-      "question": "What is Cybersecurity concept 4?",
-      "options": [
-        "Cybersecurity Option A4",
-        "Cybersecurity Option B4",
-        "Cybersecurity Option C4",
-        "Cybersecurity Option D4"
-      ],
-      "answer": "Cybersecurity Option A4"
-    },
-    {
       "question": "What is Cybersecurity concept 5?",
       "options": [
         "Cybersecurity Option A5",
@@ -291,16 +201,6 @@
       "answer": "Mobile App Development Option A3"
     },
     {
-      "question": "What is Mobile App Development concept 4?",
-      "options": [
-        "Mobile App Development Option A4",
-        "Mobile App Development Option B4",
-        "Mobile App Development Option C4",
-        "Mobile App Development Option D4"
-      ],
-      "answer": "Mobile App Development Option A4"
-    },
-    {
       "question": "What is Mobile App Development concept 5?",
       "options": [
         "Mobile App Development Option A5",
@@ -333,26 +233,6 @@
       "answer": "Cloud Computing Option A2"
     },
     {
-      "question": "What is Cloud Computing concept 3?",
-      "options": [
-        "Cloud Computing Option A3",
-        "Cloud Computing Option B3",
-        "Cloud Computing Option C3",
-        "Cloud Computing Option D3"
-      ],
-      "answer": "Cloud Computing Option A3"
-    },
-    {
-      "question": "What is Cloud Computing concept 4?",
-      "options": [
-        "Cloud Computing Option A4",
-        "Cloud Computing Option B4",
-        "Cloud Computing Option C4",
-        "Cloud Computing Option D4"
-      ],
-      "answer": "Cloud Computing Option A4"
-    },
-    {
       "question": "What is Cloud Computing concept 5?",
       "options": [
         "Cloud Computing Option A5",
@@ -361,58 +241,6 @@
         "Cloud Computing Option D5"
       ],
       "answer": "Cloud Computing Option A5"
-    }
-  ],
-  "Blockchain": [
-    {
-      "question": "What is Blockchain concept 1?",
-      "options": [
-        "Blockchain Option A1",
-        "Blockchain Option B1",
-        "Blockchain Option C1",
-        "Blockchain Option D1"
-      ],
-      "answer": "Blockchain Option A1"
-    },
-    {
-      "question": "What is Blockchain concept 2?",
-      "options": [
-        "Blockchain Option A2",
-        "Blockchain Option B2",
-        "Blockchain Option C2",
-        "Blockchain Option D2"
-      ],
-      "answer": "Blockchain Option A2"
-    },
-    {
-      "question": "What is Blockchain concept 3?",
-      "options": [
-        "Blockchain Option A3",
-        "Blockchain Option B3",
-        "Blockchain Option C3",
-        "Blockchain Option D3"
-      ],
-      "answer": "Blockchain Option A3"
-    },
-    {
-      "question": "What is Blockchain concept 4?",
-      "options": [
-        "Blockchain Option A4",
-        "Blockchain Option B4",
-        "Blockchain Option C4",
-        "Blockchain Option D4"
-      ],
-      "answer": "Blockchain Option A4"
-    },
-    {
-      "question": "What is Blockchain concept 5?",
-      "options": [
-        "Blockchain Option A5",
-        "Blockchain Option B5",
-        "Blockchain Option C5",
-        "Blockchain Option D5"
-      ],
-      "answer": "Blockchain Option A5"
     }
   ]
 }
